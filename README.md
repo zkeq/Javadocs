@@ -22,3 +22,8 @@
 > 提取码：o3jb 
 >  &emsp; &emsp;--来自百度网盘超级会员V4的分享
 
+### 学习资源
+
+- [代码可视化](https://pythontutor.com/visualize.html#mode=edit)
+- [编程手册](https://devdocs.io/)
+- [Linux命令大全](https://man.linuxde.net/)
