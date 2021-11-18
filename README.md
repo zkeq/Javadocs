@@ -27,3 +27,4 @@
 - [代码可视化](https://pythontutor.com/visualize.html#mode=edit)
 - [编程手册](https://devdocs.io/)
 - [Linux命令大全](https://man.linuxde.net/)
+- [Qwerty Learner](https://qwerty.kaiyi.cool/)
