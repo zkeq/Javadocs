@@ -15,7 +15,7 @@
 - 点击左侧目录即可跳转学习
 - 在搜索框输入内容可快速跳转
 
-### 本知识库课程地址
+### 视频地址
 
 > 链接：https://pan.baidu.com/s/1STUiFTTaYv1xg487rFdAWw
 > 
