@@ -1,6 +1,4 @@
 # 提问的智慧
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
-
 **How To Ask Questions The Smart Way**
 
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
