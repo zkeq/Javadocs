@@ -2,6 +2,8 @@
 
 #### 更新日志
 
+ &emsp; 2022.1.15  -  更新百度网盘链接,替换链接为自动填充链接
+
  &emsp; 2021.12.4  -  增加暗色模式, 方便晚上学习
 
  &emsp; 2021.11.22  -  增加Coding日志链接, 方便学习时直接跳转
@@ -23,10 +25,9 @@
 
 ### 视频地址
 
-> 链接：https://pan.baidu.com/s/1STUiFTTaYv1xg487rFdAWw
+> 链接：https://pan.baidu.com/s/15jJrUs6_XcORjwnXDcko3A?pwd=zkeq 
 > 
->  提取码：o3jb 
->  &emsp; &emsp;--来自百度网盘超级会员V4的分享
+>  提取码：zkeq (自动填充)  &emsp; &emsp; --来自百度网盘超级会员V4的分享
 
 ### 学习资源
 
